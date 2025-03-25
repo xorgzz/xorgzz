@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorgzz&layout=compact&theme=radical)
+<br><br>
+[My PGP key](https://xorgzz.ovh/pgp.txt)
 <!--
 
 **xorgzz/xorgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
