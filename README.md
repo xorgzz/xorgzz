@@ -1,8 +1,5 @@
 ### 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorgzz&layout=compact&theme=radical)
-<br><br>
-[My PGP key](https://xorgzz.ovh/pgp.txt)
 <br>
 <!--
 ![1697165994692675](https://github.com/user-attachments/assets/2a136122-ec89-4f9c-b44c-975b96a62226)
