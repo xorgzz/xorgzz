@@ -1,4 +1,4 @@
-<img width="500"  alt="Screenshot_20260501-161712~3" src="https://github.com/user-attachments/assets/61d19cbc-6cad-4ab5-a3d9-2884b828f4ea" />
+<img width="300"  alt="Screenshot_20260501-161712~3" src="https://github.com/user-attachments/assets/61d19cbc-6cad-4ab5-a3d9-2884b828f4ea" />
  
 
 <br>
